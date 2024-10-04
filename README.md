@@ -53,4 +53,3 @@ Upload an image of a table through the Gradio interface, and the table data will
 ## Acknowledgements
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for the OCR engine.
 - [Gradio](https://www.gradio.app/) for the web interface.
-```
